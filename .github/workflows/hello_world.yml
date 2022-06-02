@@ -41,4 +41,4 @@ jobs:
     
     steps:
       - name: Print Hello World Windows
-        run: 'Hello world World Windows'
+        run: echo 'Hello world World Windows'
